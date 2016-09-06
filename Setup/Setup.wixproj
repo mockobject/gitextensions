@@ -6,7 +6,7 @@
     <Version Condition=" '$(Version)' == '' ">0.00</Version>
     <NumericVersion Condition=" '$(NumericVersion)' == '' ">$(Version)</NumericVersion>
     <IncludeRequiredSoftware Condition=" '$(IncludeRequiredSoftware)' == '' ">1</IncludeRequiredSoftware>
-    <ProductVersion>3.0</ProductVersion>
+    <ProductVersion>3.10</ProductVersion>
     <ProjectGuid>{9380c29c-3c7f-47a8-a4c9-a5ee9d7b386a}</ProjectGuid>
     <SchemaVersion>2.0</SchemaVersion>
     <OutputName>GitExtensions</OutputName>
